@@ -3,10 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Agave
+Tapis (Agave)
 =====
 
-The Agave Platform is an open source, science-as-a-service API platform for powering your digital lab. Documentation is presented below:
+IMPORTANT NOTE: We are excited to announce that TACC’s Agave API project will be renamed to Tapis. We have updated the documentation to reflect the new name.
+
+The Tapis Project (Agave)  is an open source, science-as-a-service API platform for powering your digital lab. Documentation is presented below:
 
 .. toctree::
    :maxdepth: 2
